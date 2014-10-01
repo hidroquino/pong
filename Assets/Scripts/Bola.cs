@@ -8,7 +8,7 @@ public class Bola : FSprite {
 	public float currentVelocity;
 	
 	public Bola() : base("bolita") {
-		defaultVelocity = 200.0f;
+		defaultVelocity = 250.0f;
 		currentVelocity = defaultVelocity;
 	}
 }

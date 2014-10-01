@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{48EEAF65-7069-E07D-AA3D-8CFE18A54FE8}</ProjectGuid>
+	<ProjectGuid>{76F75A19-3C49-4BEC-DA3B-042E80539522}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -109,7 +109,7 @@
      <None Include="Assets\Resources\Atlases\Shaders\Additive.shader" />
      <None Include="Assets\Plugins\Futile\Resources\Shaders\Solid.shader" />
  <Reference Include="GoKit">
- <HintPath>C:/Users/shade/Documents/PongDemo/Assets/Plugins/Futile/ThirdParty/GoKit.dll</HintPath>
+ <HintPath>C:/Users/shade/Documents/Pong/Assets/Plugins/Futile/ThirdParty/GoKit.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
