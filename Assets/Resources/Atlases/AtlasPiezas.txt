@@ -1,0 +1,28 @@
+{"frames": {
+
+"barrita.png":
+{
+	"frame": {"x":2,"y":2,"w":10,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":80},
+	"sourceSize": {"w":10,"h":80}
+},
+"bolita.png":
+{
+	"frame": {"x":2,"y":84,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasPiezas.png",
+	"format": "RGBA8888",
+	"size": {"w":14,"h":96},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f18ebc9a3f7ef9d65fd8a5b5bd845ea7:a6425b8ecf4bf8d2f6375c96d1e4f04b:f49822b506c93d3f214c64bd66f8e9a5$"
+}
+}
